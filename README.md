@@ -1,1 +1,3 @@
 # classiclassification
+basic module里面包括了resnet，inception等基础网络
+attention module里面包括了senet，sknet等注意力网络
